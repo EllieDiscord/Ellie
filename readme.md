@@ -9,6 +9,6 @@ Features
 🌲 #TeamTrees Commands!
 🎉 Easy to use!
 🌐 And much more!
-[![Invite](http://https://discord.com/oauth2/authorize?client_id=618758948316512277&scope=bot&permissions=8)
-[![Website](https://elliebot.com)
-[![Support](https://discord.gg/pae2Csj)
+[Invite](http://https://discord.com/oauth2/authorize?client_id=618758948316512277&scope=bot&permissions=8)
+[Website](https://elliebot.com)
+[Support](https://discord.gg/pae2Csj)
