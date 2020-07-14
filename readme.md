@@ -1,5 +1,5 @@
 # Ellie
-Ellie is an awesome Discord bot made by Swinsor and ReturnedTrue.
+Ellie is an awesome Discord with endless features.
 
 ### Overview
 Ellie is a Discord bot that focuses on multipurpose moderation, economy and fun bot, featuring hundreds of commands for hours of endless entertainment.
